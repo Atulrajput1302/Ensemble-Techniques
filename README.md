@@ -31,5 +31,20 @@ Advantages:
 Disadvantages:
    * Prone to over-fitting.
    * Requires careful tuning of different hyper-parameters.
+   
+   
+### analysis 
 
+Model           | Score
+------------    | -------------
+Random Forest   | 86.15%
+Ada Boost       | 85.81%
+Gradient Boost  | 86.48%
+Xg Boost        | 86.46%
+
+   
+   
+   
+   
+   
 
