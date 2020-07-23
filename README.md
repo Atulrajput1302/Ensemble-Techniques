@@ -44,7 +44,8 @@ Xg Boost        | 86.46%
 
    
    
-   
-   
-   
+### Sources
+[A Primer to Ensemble Learning – Bagging and Boosting](https://analyticsindiamag.com/primer-ensemble-learning-bagging-boosting/)
+[A Comprehensive Guide to Ensemble Learning](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)  
+[Youtube tutorials](https://www.youtube.com/playlist?list=PLmPJQXJiMoUWfMvIqAn0VI_LHlw4AmVrb )
 
