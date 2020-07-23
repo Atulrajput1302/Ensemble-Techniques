@@ -4,9 +4,9 @@
 ###### Types of Ensemble Methods
 1. Bagging
 2. Boosting 
-  * Ada Boost
-  * Gradient Boost
-  * Xg Boost
+   * Ada Boost
+   * Gradient Boost
+   * Xg Boost
 
 ### BAGGing or Bootstrap AGGregating-
 BAGGing gets its name because it combines Bootstrapping and Aggregation to form one ensemble model. Given a sample of data, multiple bootstrapped subsamples are pulled. A Decision Tree is formed on each of the bootstrapped subsamples. After each subsample Decision Tree has been formed, an algorithm is used to aggregate over the Decision Trees to form the most efficient predictor.  
